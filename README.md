@@ -1,6 +1,1 @@
-# GPT
-<<<<<<< HEAD
-(Your local changes)
-=======
-(Changes from GitHub repository)
->>>>>>> (commit hash)
+git add MEADME.md
